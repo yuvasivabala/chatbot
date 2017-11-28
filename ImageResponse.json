@@ -1,0 +1,37 @@
+{
+	"id": "xxx",
+	"timestamp": "2017-06-27T16:39:44.112Z",
+	"lang": "en",
+	"result": {
+		"source": "agent",
+		"resolvedQuery": "foo",
+		"action": "",
+		"actionIncomplete": false,
+		"parameters": {
+			"bar": "foo"
+		},
+		"contexts": [],
+		"metadata": {
+			"intentId": "yyy",
+			"webhookUsed": "true",
+			"webhookForSlotFillingUsed": "false",
+			"webhookResponseTime": 324,
+			"intentName": "Foo Bar"
+		},
+		"fulfillment": {
+			"speech": "Here you go",
+			"messages": [
+				{
+					"imageUrl": "https://zzz.ngrok.io/output.jpg",
+					"type": 3
+				}
+			]
+		},
+		"score": 1
+	},
+	"status": {
+		"code": 200,
+		"errorType": "success"
+	},
+	"sessionId": "abc"
+}

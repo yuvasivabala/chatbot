@@ -1,0 +1,18 @@
+Google Places API Key: AIzaSyDHyBBKhH-CKIvxiwPIfEMA9wUvVShq5F0
+
+Server key (auto created by Google Service)
+Key
+AIzaSyACofNVd6ynO6Ypdwur9H9tyIMjs9_g6AY
+
+Browser key (auto created by Google Service)
+Key
+AIzaSyD3CeVqyjX0QPSazWQTPyUCFKJsvYpqL2c
+
+API key
+Key
+AIzaSyDHyBBKhH-CKIvxiwPIfEMA9wUvVShq5F0
+
+The Google Places API Web Service enforces a default limit of 1,000 free requests per 24 hour period, calculated as the sum of client-side and server-side requests. If your app exceeds the initial limit, the app will start failing. You can increase this limit free of charge, up to 150,000 requests per 24 hour period, by enabling billing on the Google API Console to verify your identity. A credit card is required for verification. We ask for your credit card purely to validate your identity. Your card will not be charged for use of the Google Places API Web Service.
+The maximum limit for free usage is 150,000 requests per 24 hour period. If your app exceeds the limit, the app will start failing again. Purchase a Google Maps APIs Premium Plan license to get more than 150,000 requests per 24 hour period.
+
+https://console.developers.google.com/apis/dashboard?project=shoppingassistant-f61ae&authuser=1&duration=PT1H
